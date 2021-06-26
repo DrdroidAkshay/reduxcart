@@ -8,5 +8,5 @@ const uiSlice = createSlice({
     },
   },
 });
-export const uiActtions = uiSlice.actions;
+export const uiActions = uiSlice.actions;
 export default uiSlice;
